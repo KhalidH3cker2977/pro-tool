@@ -26,7 +26,7 @@ ALL CONTRIES FB ACCOUNTS CLONIG COMMANDS WITH 5 OWN PASSWORDS
 * ```pkg install python2```
 * ```pip2 install requests ```
 * ```pip2 install mechanize```
-* ```https://github.com/KhalidH3cker2977/pro-tool```
+* ```git clone https://github.com/KhalidH3cker2977/pro-tool```
 * ```cd pro-tool```
 * ```python2 pro-tool.py```
 * ```Username:Rayes```
