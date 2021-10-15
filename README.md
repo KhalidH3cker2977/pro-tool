@@ -27,7 +27,7 @@ ALL CONTRIES FB ACCOUNTS CLONIG COMMANDS WITH 5 OWN PASSWORDS
 * ```cd pro-tool```
 * ```python2 pro-tool.py```
 * ```Username:Rayes```
-* ```Password:khalid'''
+* ```Password:khalid```
 
 
 ### Find Me On :
