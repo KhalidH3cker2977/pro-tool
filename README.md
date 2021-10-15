@@ -1,9 +1,12 @@
 # ALL COUNTRIES
 ALL CONTRIES FB ACCOUNTS CLONIG COMMANDS WITH 5 OWN PASSWORDS
 
-ðŸ”°HIGH SPEED 
-ðŸ”°WITHOUT LOGIN
-ðŸ”°5 OWN PASSWORDS
+🔴HIGH SPEED
+
+🔴WITHOUT LOGIN
+
+🔴OWN PASSWORDS
+
 <h1 align="center"> |Rayes-khalid|</h1>
 
 <h2 align="center"> Best Cloning Commands </h2>
